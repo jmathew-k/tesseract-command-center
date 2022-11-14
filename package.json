@@ -1,5 +1,5 @@
 {
-  "name": "tesseract-dashboard",
+  "name": "tesseract-command-center",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,8 @@
     "classnames": "^2.2.6",
     "date-fns": "^2.25.0",
     "draft-js": "^0.11.7",
+    "firebase": "^9.14.0",
+    "firebase-tools": "^11.16.0",
     "node-sass": "^5.0.0",
     "react": "17.0.2",
     "react-datepicker": "^4.3.0",
